@@ -6,7 +6,8 @@ the following link to preview the code and visuals. There is a current issue wit
 showing specific types of visualizations - such as the ones I use from the 'plotly' package.
 
 This link to view the final Notebook file sometimes doesn't work due to ever changing systems/updates. If not please click the
-actual Notebook file above that ends in ".py" - thank you!
+actual Notebook file above that ends in ".ipnyb" - thank you!
+
 [pokemon_analysis.ipynb](https://nbviewer.jupyter.org/github/calvintirrell/Pokemon_Analysis/blob/main/pokemon_analysis.ipynb)
 
 # Summary of findings (from the code file)
